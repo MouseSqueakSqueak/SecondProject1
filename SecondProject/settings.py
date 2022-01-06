@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'app',
     # Add your apps here to enable them
     'polls.apps.PollsConfig',
+    'Person.apps.PersonConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
